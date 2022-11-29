@@ -1,0 +1,15 @@
+
+	// Mysql Configuration
+
+driverClassName : com.mysql.cj.jdbc.Driver
+
+url : jdbc:mysql://localhost:3306/springcore
+
+username : root
+
+password : Arun1234@
+
+
+
+ashwini db name in project : empinfodb 
+user : root, pass - root
